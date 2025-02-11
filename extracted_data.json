@@ -1,0 +1,47 @@
+[
+    {
+        "Property":320000,
+        "Location":43,
+        "Price":357500,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "SQFT":1628,
+        "Amenities":"Furnished, Sorry this property is no longer for sale"
+    },
+    {
+        "Property":399000,
+        "Location":54,
+        "Price":425000,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "SQFT":1876,
+        "Amenities":"Garage (2), Sorry this property is no longer for sale"
+    },
+    {
+        "Property":399000,
+        "Location":54,
+        "Price":425000,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "SQFT":1876,
+        "Amenities":"Garage (2), Sorry this property is no longer for sale"
+    },
+    {
+        "Property":399000,
+        "Location":54,
+        "Price":425000,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "SQFT":1876,
+        "Amenities":"Garage (2), Sorry this property is no longer for sale"
+    },
+    {
+        "Property":399000,
+        "Location":54,
+        "Price":425000,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "SQFT":1876,
+        "Amenities":"Garage (2), Sorry this property is no longer for sale"
+    }
+]

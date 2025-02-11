@@ -1,0 +1,16 @@
+name: webscraper_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - streamlit
+  - langchain
+  - selenium
+  - beautifulsoup4
+  - lxml
+  - html5lib
+  - python-dotenv
+  - pip
+  - pip:
+      - langchain_ollama
